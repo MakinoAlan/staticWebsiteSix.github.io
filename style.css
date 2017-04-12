@@ -45,6 +45,10 @@
   margin-bottom: 0; 
 } 
 
+.jumbotron h1 {
+  color:white;
+}
+
 .jumbotron h2:first-child {
   margin:120px 0 0; 
 } 
